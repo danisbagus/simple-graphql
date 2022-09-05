@@ -12,7 +12,7 @@ var {
 const app = express();
 
 let products = [
-  { id: 1, name: "Baju idur", categoryID: 1 },
+  { id: 1, name: "Baju tidur", categoryID: 1 },
   { id: 2, name: "Baju renang", categoryID: 1 },
   { id: 3, name: "Kursi kaku 8", categoryID: 2 },
   { id: 4, name: "Lampu hias", categoryID: 2 },
